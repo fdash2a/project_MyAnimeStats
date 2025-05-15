@@ -1,0 +1,7 @@
+requests
+json
+time
+streamlit
+pandas
+matplotlib
+seaborn
